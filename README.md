@@ -5,11 +5,12 @@ Team 2023-II
 | Position | Username           | Name               | Title                        | Rating   |
 |----------|--------------------|--------------------|------------------------------|----------|
 | 1        | [cat_ta4]          | Hugo Sebastián     | $${\color{green}Pupil}$$     | 1286     |
-| 2        | [erick_alegre]     | Erick              | $${\color{gray}Newbie}$$	    |  930     |
-| 3        | [Davis22]          | Davis Leonardo     | $${\color{gray}Newbie}$$	    |  843     |
-| 4        | [jorgektch]        | Jorge Jesús        | $${\color{gray}Newbie}$$	    |  820     |
-| 5        | [Luiz2002]         | Luiz Ignacio       | $${\color{gray}Newbie}$$     |  742     |
-| 6        | [LauraNotFound]    | Laura Cecilia      | $${\color{gray}Newbie}$$     |  665     |
+| 2        | [AnnieLeonhart]    | Erick              | $${\color{gray}Newbie}$$	    | 1153     |
+| 3        | [erick_alegre]     | Erick              | $${\color{gray}Newbie}$$	    |  930     |
+| 4        | [Davis22]          | Davis Leonardo     | $${\color{gray}Newbie}$$	    |  843     |
+| 5        | [jorgektch]        | Jorge Jesús        | $${\color{gray}Newbie}$$	    |  820     |
+| 6        | [Luiz2002]         | Luiz Ignacio       | $${\color{gray}Newbie}$$     |  742     |
+| 7        | [LauraNotFound]    | Laura Cecilia      | $${\color{gray}Newbie}$$     |  665     |
 
 [LauraNotFound]: https://codeforces.com/profile/LauraNotFound
 [jorgektch]: https://codeforces.com/profile/jorgektch
@@ -18,5 +19,6 @@ Team 2023-II
 [Davis22]: https://codeforces.com/profile/Davis22
 [jorgektch]: https://codeforces.com/profile/jorgektch
 [erick_alegre]: https://codeforces.com/profile/erick_alegre
+[AnnieLeonhart]: https://codeforces.com/profile/AnnieLeonhart
 
 [Codeforces]: https://codeforces.com/contests
