@@ -1,5 +1,5 @@
-# Team  2023
-Team 2023
+# Team 2023 II
+Team 2023 II
 ## Members
 [Codeforces] ranking updated as of September 29th, 2023
 | Position | Username           | Name               | Title                        | Rating   |
