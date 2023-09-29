@@ -5,7 +5,7 @@ Team 2023-II
 | Position | Username           | Name               | Title                        | Rating   |
 |----------|--------------------|--------------------|------------------------------|----------|
 | 1        | [cat_ta4]          | Hugo Sebastián     | $${\color{green}Pupil}$$     | 1286     |
-| 2        | [AnnieLeonhart]    | Erick              | $${\color{gray}Newbie}$$	    | 1153     |
+| 2        | [AnnieLeonhart]    | Alex Atilio        | $${\color{gray}Newbie}$$	    | 1153     |
 | 3        | [erick_alegre]     | Erick              | $${\color{gray}Newbie}$$	    |  930     |
 | 4        | [Davis22]          | Davis Leonardo     | $${\color{gray}Newbie}$$	    |  843     |
 | 5        | [jorgektch]        | Jorge Jesús        | $${\color{gray}Newbie}$$	    |  820     |
