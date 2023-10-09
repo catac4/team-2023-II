@@ -22,3 +22,35 @@ Team 2023-II
 [AnnieLeonhart]: https://codeforces.com/profile/AnnieLeonhart
 
 [Codeforces]: https://codeforces.com/contests
+
+## Syllabus
+- **S01 - Viernes 22/09:** Asymptotic Analysis (Jorge Jesús)
+- **S02 - Martes 26/09:** Standard Template Library (Luiz Ignacio)
+- **S02 - Viernes 29/09:** String Processing (Davis Leonardo)
+- **S03 - Martes 03/10:** Practice
+- **S03 - Viernes 06/10:** Practice
+- **S04 - Martes 10/10:** Java Big Integers & Number Theory (Laura Cecilia)
+- **S04 - Viernes 13/10:** Combinatorics & Probability Theory (Erick Martin)
+- **S05 - Martes 17/10:** Bit manipulation (Hugo Sebastián)
+- **S05 - Viernes 20/10:** DP Part 1 (Hugo Sebastián)
+- **S06 - Martes 24/10:** DP Part 2 (Hugo Sebastián)
+- **S06 - Viernes 27/10:** Graph Theory and Graph Traversal (Jorge Jesús)
+- **S07 - Martes 31/10:** Tree Algorithms & Minimum Spanning Tree (David Leonardo)
+- **S07 - Viernes 03/11:** Shortest Paths (Jorge Jesús)
+- **S08 - Martes 07/11:** Rare Topics
+- **S08 - Viernes 10/11:** Rare Topics
+- **S09 - Martes 14/11:** Rare Topics
+- **S09 - Viernes 17/11:** Rare Topics
+- **S10 - Martes 21/11:** Rare Topics
+- **S10 - Viernes 24/11:** Rare Topics
+- **S11 - Martes 28/11:** Rare Topics
+- **S11 - Viernes 01/12:** Rare Topics
+- **S12 - Martes 05/12:** Rare Topics
+- **S12 - Viernes 08/12:** Rare Topics
+- **S13 - Martes 12/12:** Rare Topics
+- **S13 - Viernes 15/12:** Rare Topics
+- **S14 - Martes 12/12:** Rare Topics
+- **S14 - Viernes 15/12:** Rare Topics
+- **S15 - Martes 19/12:** Rare Topics
+- **S15 - Viernes 22/12:** Rare Topics
+
