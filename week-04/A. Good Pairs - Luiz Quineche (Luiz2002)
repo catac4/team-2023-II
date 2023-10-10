@@ -1,0 +1,48 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define F first
+#define S second
+#define PB push_back
+#define MP make_pair
+
+typedef long long ll;
+typedef long double ld;
+typedef vector<int> vi;
+typedef vector<ld> vd;
+typedef vector<ll> vl;
+typedef vector<pair<int, int>> vpii;
+
+int main()
+{
+    int n;
+    cin >> n;
+    for (int i = 0; i < n; i++)
+    {
+        int t;
+        cin >> t;
+        vi a(t);
+
+        for (int j = 0; j < t; j++)
+        {
+            cin >> a[j];
+        }
+
+        int max_val = *max_element(a.begin(), a.end());
+        int min_val = *min_element(a.begin(), a.end());
+
+        int max_index = find(a.begin(), a.end(), max_val) - a.begin() + 1;
+        int min_index = find(a.begin(), a.end(), min_val) - a.begin() + 1;
+
+        // Output the indices of the good pair
+        if (max_index < min_index)
+        {
+            cout << max_index << " " << min_index << endl;
+        }
+        else
+        {
+            cout << min_index << " " << max_index << endl;
+        }
+    }
+    return 0;
+}
