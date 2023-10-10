@@ -13,6 +13,7 @@ Team 2023-II
 | 7        | [Luiz2002]         | Luiz Ignacio       | $${\color{gray}Newbie}$$     |  742     |
 | 8        | [LauraNotFound]    | Laura Cecilia      | $${\color{gray}Newbie}$$     |  665     |
 
+![](https://geps.dev/progress/10)
 
 [LauraNotFound]: https://codeforces.com/profile/LauraNotFound
 [jorgektch]: https://codeforces.com/profile/jorgektch
