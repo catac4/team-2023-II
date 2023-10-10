@@ -1,7 +1,7 @@
 # Team 2023-II
 Team 2023-II
 ## Members
-[Codeforces] ranking updated as of September 29th, 2023
+[Codeforces] ranking updated as of October 10th, 2023
 | Position | Username           | Name               | Title                        | Rating   |
 |----------|--------------------|--------------------|------------------------------|----------|
 | 1        | [cat_ta4]          | Hugo Sebastián     | $${\color{green}Pupil}$$     | 1286     |
